@@ -1,9 +1,10 @@
 # QJDCalendar
 一款简单的日历的视图控件，支持"周历"和"月历"切换。
+# 示例图片
+![image](https://github.com/coderqjd/QJDCalendar/blob/master/MonthCalendar.png)
+![image](https://github.com/coderqjd/QJDCalendar/blob/master/WeekCalendar.png)
 # 安装
 pod 'QJDCalendar'
-# 示例
-![image](https://github.com/coderqjd/QJDCalendar/blob/master/MonthCalendar.png)；
 # 如何使用
 - 导入头文件
 ```
