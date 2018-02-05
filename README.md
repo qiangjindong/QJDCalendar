@@ -3,7 +3,7 @@
 # 安装
 pod 'QJDCalendar'
 # 示例
-! [示例图片] (QJDCalendar/MonthCalendar.png)；
+! https://github.com/coderqjd/QJDCalendar/blob/master/MonthCalendar.png；
 # 如何使用
 - 导入头文件
 ```
