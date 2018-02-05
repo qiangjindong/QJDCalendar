@@ -73,22 +73,5 @@
     return self.center.y;
 }
 
-- (void)setQjd_right:(CGFloat)qjd_right {
-    CGRect frame = self.frame;
-    frame.size.width = self.qjd_x - qjd_right;
-    self.frame = frame;
-}
-- (CGFloat)qjd_right {
-    return self.qjd_x - self.qjd_width;
-}
-
-- (void)setQjd_bottom:(CGFloat)qjd_bottom {
-    CGRect frame = self.frame;
-    frame.size.height = self.qjd_y - qjd_bottom;
-    self.frame = frame;
-}
-- (CGFloat)qjd_bottom {
-    return self.qjd_y - self.qjd_height;
-}
 
 @end

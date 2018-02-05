@@ -19,8 +19,6 @@
 @property (nonatomic, assign) CGFloat qjd_height;
 @property (nonatomic, assign) CGFloat qjd_centerX;
 @property (nonatomic, assign) CGFloat qjd_centerY;
-@property (nonatomic, assign) CGFloat qjd_bottom;
-@property (nonatomic, assign) CGFloat qjd_right;
 
 @end
 
