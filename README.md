@@ -2,7 +2,7 @@
 一款简单的日历的视图控件，支持"周历"和"月历"切换。
 # 示例图片
 <img src="https://github.com/coderqjd/QJDCalendar/blob/master/MonthCalendar.png" width="150" height="200" alt="图片描述文字"/>
-![image](https://github.com/coderqjd/QJDCalendar/blob/master/WeekCalendar.png)
+
 # 安装
 pod 'QJDCalendar'
 # 如何使用
