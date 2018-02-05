@@ -10,7 +10,7 @@ pod 'QJDCalendar'
 # 如何使用
 - 导入头文件
 ```
-#import "QJDCalendar.h"
+#import <QJDCalendar.h>
 ```
 - 创建一个可以"周历"和"月历"相互切换的日历
 ```
