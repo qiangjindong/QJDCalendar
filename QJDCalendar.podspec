@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'QJDCalendar'
-s.version      = '0.0.3'
+s.version      = '0.0.4'
 s.summary      = '一款简单的日历的视图控件，支持"周历"和"月历"切换'
 s.homepage     = 'https://github.com/coderqjd/QJDCalendar'
 s.license      = 'MIT'
